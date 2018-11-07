@@ -1,0 +1,12 @@
+/Users/apple/IdeaProjects/genealogie/src/main/java/com/smag/genealogie/resource/ChatController.java
+/Users/apple/IdeaProjects/genealogie/src/main/java/com/smag/genealogie/resource/WebSocketEventListener.java
+/Users/apple/IdeaProjects/genealogie/src/main/java/com/smag/genealogie/model/Personne.java
+/Users/apple/IdeaProjects/genealogie/src/main/java/com/smag/genealogie/service/PersonneService.java
+/Users/apple/IdeaProjects/genealogie/src/main/java/com/smag/genealogie/model/Enfants.java
+/Users/apple/IdeaProjects/genealogie/src/main/java/com/smag/genealogie/model/Quizz.java
+/Users/apple/IdeaProjects/genealogie/src/main/java/com/smag/genealogie/resource/Index.java
+/Users/apple/IdeaProjects/genealogie/src/main/java/com/smag/genealogie/model/ChatMessage.java
+/Users/apple/IdeaProjects/genealogie/src/main/java/com/smag/genealogie/repository/PersonneRepository.java
+/Users/apple/IdeaProjects/genealogie/src/main/java/com/smag/genealogie/resource/PersonneRest.java
+/Users/apple/IdeaProjects/genealogie/src/main/java/com/smag/genealogie/GenealogieApplication.java
+/Users/apple/IdeaProjects/genealogie/src/main/java/com/smag/genealogie/config/WebSocketConfig.java
