@@ -286,6 +286,9 @@ button.accent {
     .chat-header {
         padding: 10px;
     }
+ .chat-header {
+        padding: 10px;
+    }
 
     .connecting {
         top: 60px;
